@@ -8,5 +8,5 @@ Soruda büyük harflerle yazılan "ALPHA" yazısı ve resmin üst kısmında dur
 ![image](https://user-images.githubusercontent.com/88983987/207182749-f91698bf-1bdd-4315-9b78-9665a9ba7239.png)<br>
 Biraz göz yorucu görünüyor fakat flag formatımız "HCTF" ile başlıyor. Bunun dosya içerisinde bulunduğunu farkediyoruz. Tek yapmamız gereken filtrelemek. <br>
 ![image](https://user-images.githubusercontent.com/88983987/207182962-87007b1b-467b-4d1b-bf4c-bff9716a1b18.png)<br>
-Ben filtrelemek için "CyberChef" aracını kullandım. <br>
+Ben filtrelemek için "CyberChef" aracını kullandım. Çünkü Linux üzerinde gerekli dil desteğim yüklü olmadığı için işletim sistemim filtrelemem gereken karakteri desteklemiyordu. Vakit kaybetmemek için Windows üzerinde "CyberChef" kullandım. <br>
 ![image](https://user-images.githubusercontent.com/88983987/207183539-2c254552-5c92-46cd-9e32-cd5165389085.png)
