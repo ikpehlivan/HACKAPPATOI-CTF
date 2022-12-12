@@ -1,6 +1,6 @@
 
 Bu soruda bize bir adet jpg dosyası veriliyor. İçeriğinde işimize yarayabilecek bir şey yok gibi gözüküyor. Steghide ya da binwalk gibi araçlar ile tarattığımızda herhangi bir sonuç bulamıyoruz. Fakat Steghide bize bir uyarı veriyor.
-![Ekran görüntüsü 2022-12-12 135706](https://user-images.githubusercontent.com/88983987/207029027-ed381d94-5642-4471-97f9-7c7cd78ae8ff.png)<b>
+![Ekran görüntüsü 2022-12-12 135706](https://user-images.githubusercontent.com/88983987/207029027-ed381d94-5642-4471-97f9-7c7cd78ae8ff.png)<br>
 Bu uyarının anlamı dosyanın bizim gördüğümüzün dışında 4539 byte daha içerdiği. Hint'e baktığımızda "size is matter" yazısını görüyoruz. 
 ![image](https://user-images.githubusercontent.com/88983987/207029134-d21ad4a0-8e30-4422-95d1-63f0c5712c6c.png)
 Hint ve uyarıdan yola çıkarak bizim gördüğümüzün dışında kalan alanı görebilmek için dosyanın hex kodlarındaki resim çözünürlüğü ile oynamamız gerekiyor.
