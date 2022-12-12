@@ -1,0 +1,3 @@
+Bu soruda bize bir adet jpg dosyası veriliyor. İçeriğinde işimize yarayabilecek bir şey yok gibi gözüküyor. Steghide ya da binwalk gibi araçlar ile tarattığımızda herhangi bir sonuç bulamıyoruz. Fakat Steghide bize bir uyarı veriyor.
+
+Bu uyarının anlamı dosyanın bizim gördüğümüzün dışında 4539 byte daha içerdiği. Hint'e baktığımızda "size is matter" yazısını görüyoruz. Bizim gördüğümüzün dışında kalan alanı görebilmek için CyberChef'i açıp dosyayı önce hex haline getiriyoruz.
