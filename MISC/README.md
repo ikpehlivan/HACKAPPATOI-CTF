@@ -18,6 +18,6 @@ Bu kısmı neye göre düzenleyeceğimizi aşağıdaki tablodan inceliyoruz.
 ![image](https://user-images.githubusercontent.com/88983987/207030831-c4bf59a0-456e-42fa-8a65-83db97d6d90b.png)
 
 Sources:
-https://blog.cyberhacktics.com/hiding-information-by-changing-an-images-height/
-https://docs.fileformat.com/image/jpeg/
+https://blog.cyberhacktics.com/hiding-information-by-changing-an-images-height/<br>
+https://docs.fileformat.com/image/jpeg/<br>
 https://en.wikipedia.org/wiki/JPEG#Syntax_and_structure
