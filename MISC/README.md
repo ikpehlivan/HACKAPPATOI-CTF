@@ -13,6 +13,11 @@ Sonrasında hex kodları içerisinde resmin çözünürlüğünün gizlendiği a
 Başlangıç framelerinin 2 farklı türü olduğunu görüyoruz. İlkini hex kodları içinde arattığımızda herhangi bir sonuç bulamıyoruz. Fakat 2. seçeneği arattığımızda karşımıza çıkıyor.
 ![image](https://user-images.githubusercontent.com/88983987/207030142-9644f4da-9be2-485b-8832-f75737b98d90.png)
 Bu kısmı neye göre düzenleyeceğimizi aşağıdaki tablodan inceliyoruz.
-![image](https://user-images.githubusercontent.com/88983987/207030612-22901216-c55b-4e3a-a3f1-aac41791c381.png)
+![image](https://user-images.githubusercontent.com/88983987/207030612-22901216-c55b-4e3a-a3f1-aac41791c381.png)<br>
 6. basamaktaki hex değerini 3 arttırdığımızda flag karşımıza çıkıyor. Stegonagrafinin ne kadar ileri gidebileceğine dair en güzel örneklerden birisi.
 ![image](https://user-images.githubusercontent.com/88983987/207030831-c4bf59a0-456e-42fa-8a65-83db97d6d90b.png)
+
+Sources:
+https://blog.cyberhacktics.com/hiding-information-by-changing-an-images-height/
+https://docs.fileformat.com/image/jpeg/
+https://en.wikipedia.org/wiki/JPEG#Syntax_and_structure
