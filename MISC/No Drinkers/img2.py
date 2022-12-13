@@ -11,7 +11,8 @@ veriler = alpha.getdata()
 
 # Verileri ASCII karakterlerine dönüştür
 ascii_veriler = [chr(x) for x in veriler]
-
 # ASCII verilerini ekrana yaz
-print(''.join(ascii_veriler))
-
+#print(''.join(ascii_veriler))
+x = ''.join(ascii_veriler)
+x = x.replace("ÿ","")
+print(x)
